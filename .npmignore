@@ -1,0 +1,7 @@
+*
+!index.js
+!lib/**/*
+!bin/*
+!install.sh
+LICENSE
+LICENSE.md

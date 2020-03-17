@@ -54,7 +54,7 @@
   "devDependencies": {},
   "dependencies": {
     "resolve": "^1.4.0",
-    "yargs": "^8.0.2"
+    "yargs": "^13.1.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
